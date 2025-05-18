@@ -1,0 +1,37 @@
+[
+    {
+        "title": "iPhone 15 Pro Max",
+        "price": 1199.0,
+        "description": "6.7-inch display, A17 Pro chip, Triple-camera system, Titanium design",
+        "imageURL": "https://example.com/images/iphone15promax.jpg",
+        "createdAt": "2025-05-18T14:23:55.083172"
+    },
+    {
+        "title": "iPhone 15",
+        "price": 799.0,
+        "description": "6.1-inch display, A16 Bionic chip, Dual-camera system",
+        "imageURL": "https://example.com/images/iphone15.jpg",
+        "createdAt": "2025-05-18T14:23:55.083182"
+    },
+    {
+        "title": "iPhone 14 Pro",
+        "price": 999.0,
+        "description": "6.1-inch display, A16 Bionic chip, Dynamic Island, Pro camera system",
+        "imageURL": "https://example.com/images/iphone14pro.jpg",
+        "createdAt": "2025-05-18T14:23:55.083185"
+    },
+    {
+        "title": "iPhone 13",
+        "price": 699.0,
+        "description": "6.1-inch display, A15 Bionic chip, Dual-camera system",
+        "imageURL": "https://example.com/images/iphone13.jpg",
+        "createdAt": "2025-05-18T14:23:55.083187"
+    },
+    {
+        "title": "iPhone SE (3rd generation)",
+        "price": 429.0,
+        "description": "4.7-inch display, A15 Bionic chip, Touch ID",
+        "imageURL": "https://example.com/images/iphonese.jpg",
+        "createdAt": "2025-05-18T14:23:55.083190"
+    }
+]
